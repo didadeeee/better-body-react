@@ -11,7 +11,6 @@ Inspired by a minimalist blogpost design on [Tailwind](https://www.tailwindaweso
 2. HTML5 (JSX)
 3. CSS
 4. Vercel Deployment
-<br>
 
 ### Check out my work here: [Better Body Co. Blog](https://better-body-react.vercel.app/)
 <br>
@@ -35,8 +34,6 @@ After consulting with experienced SEO analysts and online resources, we have ide
 8. **Image Optimization**: Reduce file sizes, use descriptive filenames, and add alt tags for better search visibility.
 9. **Schema Markup**: Implement structured data for enhanced search result appearance and click-through rates.
 10. **Social Sharing Buttons**: Facilitate easy content sharing with social sharing buttons.
-<br>
-
 
 ### **Resources**:
 Technical inspection: [PageSpeed Insights](https://pagespeed.web.dev/) | Refer to the full report of my Blogpost Analysis [here](https://pagespeed.web.dev/analysis/https-better-body-react-vercel-app/fe86a5bo0k?form_factor=mobile).
@@ -57,4 +54,4 @@ Competitor Research:
   - The design incorporates a distinguished color coding scheme to enhance visual appeal and organization. However, there is a lack of interactive elements, which could limit user engagement and interactivity.
 <br>
 
-### Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/didadeeee/) if you have any advice at all! More than happy to exchange ideas! :)
+#### Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/didadeeee/) if you have any advice at all! More than happy to exchange ideas! :)
