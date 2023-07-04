@@ -93,7 +93,7 @@ a.read-more:hover {
   color: black;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   main {
     padding: 10px;
   }
