@@ -9,7 +9,7 @@ main {
 }
 
 img {
-  width:800px;
+  width: 800px;
   height: auto;
 }
 
@@ -69,7 +69,7 @@ img {
 }
 
 p.date {
-  color: #888;
+  color: black;
   font-size: 14px;
   margin: 0 0 10px 0;
 }
@@ -91,4 +91,19 @@ a.read-more {
 a.read-more:hover {
   background-color: rgb(240, 240, 240, 0.4);
   color: black;
+}
+
+@media (max-width: 600px) {
+  main {
+    padding: 10px;
+  }
+
+  .blog-posts {
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
+
+  .blog-posts article {
+    margin-bottom: 20px;
+  }
 }

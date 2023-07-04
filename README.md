@@ -37,6 +37,7 @@ Understanding PageSpeed Insights [Learning Resources](https://www.youtube.com/wa
 References:
 
 Competitor Research:
+
 - [Good House Keeping](https://www.goodhousekeeping.com/health-products/g43371225/best-supplements-for-menopause/)
   - Overview: Catching title, high traffic, numerous backlinking
 - [Forbes](https://www.forbes.com/health/family/best-menopause-supplements/)
@@ -45,6 +46,7 @@ Competitor Research:
   - Overview: Distinguished color coding, lack of interactive elements
 
 Image Hosting:
+
 - [Imgur](https://imgur.com/)
 - [Postimages](https://postimg.cc/)
 
@@ -58,8 +60,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-

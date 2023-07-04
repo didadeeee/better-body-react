@@ -1,6 +1,5 @@
-
 img {
-  width:800px;
+  width: 800px;
   height: auto;
 }
 
@@ -100,4 +99,30 @@ p {
 
 .collapse-section a {
   color: black;
+}
+
+@media (max-width: 600px) {
+  .image-container {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+
+  .blog-post {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: left;
+  }
+
+  .blog-post p {
+    font-size: 15px;
+  }
+
+  .blog-post h1 {
+    font-size: 20px;
+  }
+
+  .blog-post h2,
+  h3 {
+    font-size: 16px;
+  }
 }
