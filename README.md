@@ -1,11 +1,8 @@
 ## **Better Body Co. Blogpost with SEO**
-<br>
 
 ### Project Description
 
-<br>
-
-I created a blog post for Better Body Co., owned by Maneuver Marketing within 48 hours.
+I created a blog post for [Better Body Co.](https://betterbody.co/), owned by Maneuver Marketing within 48 hours.
 
 Inspired by a minimalist blogpost design on [Tailwind](https://www.tailwindawesome.com/resources/stablo/demo), I have decided to create the app with the following tech stack:
 
