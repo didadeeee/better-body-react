@@ -2,17 +2,20 @@
 
 ### Project Description
 
-I created a blog post for [Better Body Co.](https://betterbody.co/), owned by Maneuver Marketing within 48 hours.
+I created a blog post for [Better Body Co.](https://betterbody.co/), owned by [Maneuver Marketing](https://maneuvermarketing.com/) within 48 hours.
+<br>
+
+Check out the Website [here.](https://better-body-react.vercel.app/)
 
 Inspired by a minimalist blogpost design on [Tailwind](https://www.tailwindawesome.com/resources/stablo/demo), I have decided to create the app with the following tech stack:
 
 1. React.js
-2. HTML (JSX)
+2. HTML5 (JSX)
 3. CSS
 4. Vercel Deployment
 <br>
 
-Key UI/UX features, inspired by many online resources, are as follows:
+The key UI/UX features, inspired by many online resources, are as follows:
 
 - **Individual tags**: Enhance user interactivity with clear categorization and easy navigation.
 - **Brand color highlight**: Emphasize branding and create a cohesive experience during hover interactions.
@@ -20,7 +23,7 @@ Key UI/UX features, inspired by many online resources, are as follows:
 - **Relevant images**: Improve user experience by visually supporting the content and engaging readers.
 <br>
 
-After consulting with experienced SEO analysts, we have identified the following considerations for an ideal blog post:
+After consulting with experienced SEO analysts and online resources, we have identified the following considerations for an ideal blog post:
 1. **Semantic HTML**: Use proper tags for content structure, aiding search engine understanding.
 2. **Keyword Research**: Incorporate relevant keywords naturally into headings, paragraphs, and image alt tags.
 3. **Title Tag and Meta Description**: Craft unique and compelling tags to attract clicks in search results.
@@ -35,20 +38,20 @@ After consulting with experienced SEO analysts, we have identified the following
 
 
 ### **Resources**:
-Technical inspection: [PageSpeed Insights](https://pagespeed.web.dev/) | Refer to the full report of my Blogpost Analysis [here](https://pagespeed.web.dev/analysis/https-better-body-react-vercel-app/h4lz7camn4?form_factor=mobile).
+Technical inspection: [PageSpeed Insights](https://pagespeed.web.dev/) | Refer to the full report of my Blogpost Analysis [here](https://pagespeed.web.dev/analysis/https-better-body-react-vercel-app/fe86a5bo0k?form_factor=mobile).
 
 Understanding PageSpeed Insights: [SMA Marketing](https://www.youtube.com/watch?v=c5zSF1JQ1gs)
 
 Image Hosting:
 
-- [Imgur](https://imgur.com/)
-- [Postimages](https://postimg.cc/)
+- [Imgur (png & jpg)](https://imgur.com/)
+- [Postimages (Webp)](https://postimg.cc/)
 
 Competitor Research: 
 - [Good House Keeping](https://www.goodhousekeeping.com/health-products/g43371225/best-supplements-for-menopause/)
-  - Overview: Catching title, high traffic, numerous backlinking
+  - The website grabs attention with its captivating title, attracting high traffic due to its compelling content. Furthermore, the website benefits from a significant number of backlinks, which further enhance its visibility and authority.
 - [Forbes](https://www.forbes.com/health/family/best-menopause-supplements/)
-  - Overview: Highly credible website, interactive contents, numerous backlinking
+  - The website stands out for its high credibility, featuring interactive content that engages users effectively. Additionally, the website benefits from numerous backlinks, which contribute to its authority and visibility.
 - [The Scarlet Company](https://thescarletcompany.com/blogs/articles/understanding-your-menstrual-health-taking-extra-care)
-  - Overview: Distinguished color coding, lack of interactive elements
+  - The design incorporates a distinguished color coding scheme to enhance visual appeal and organization. However, there is a lack of interactive elements, which could limit user engagement and interactivity.
 
