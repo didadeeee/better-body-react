@@ -11,7 +11,7 @@ export const routes = [
     children: [
       { path: "/", element: <Homepage /> },
       { path: "menopause", element: <Menopause /> },
-      { path: "test", element: <ErrorPage /> },
+      { path: "*", element: <ErrorPage /> },
     ],
   },
 ];

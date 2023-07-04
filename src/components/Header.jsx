@@ -1,13 +1,6 @@
-import React, { useState } from "react";
 import "./Header.css";
 
 function Header() {
-  const [isMenuOpen, setIsMenuOpen] = useState(false);
-
-  const handleMenuToggle = () => {
-    setIsMenuOpen(!isMenuOpen);
-  };
-
   return (
     <>
       <header>
@@ -17,28 +10,22 @@ function Header() {
           alt="Logo"
         />
         <nav>
-          <div
-            className={`hamburger-menu ${isMenuOpen ? "open" : ""}`}
-            onClick={handleMenuToggle}
-          >
-            <div className="line"></div>
-            <div className="line"></div>
-            <div className="line"></div>
-          </div>
-          <div className={`nav-container ${isMenuOpen ? "open" : ""}`}>
+          <div>
             <ul className="nav-links">
               <li>
-                <a href="#">Lifestyle</a>
+                <a href="/">Home</a>
               </li>
               <li>
-                <a href="#">Beauty</a>
+                <a href="https://betterbody.co/pages/about">About</a>
               </li>
 
               <li>
-                <a href="#">Food</a>
+                <a href="https://betterbody.co/pages/shop">Shop</a>
               </li>
               <li>
-                <a href="#">Relationship</a>
+                <a href="https://support.betterbody.co/hc/en-us/requests/new">
+                  Contact Us
+                </a>
               </li>
             </ul>
           </div>

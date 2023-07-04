@@ -1,5 +1,4 @@
-import React from "react";
-import { useState } from "react";
+import { React, useState } from "react";
 import { Helmet } from "react-helmet";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -29,7 +28,10 @@ function Menopause() {
           name="keywords"
           content="menopause, symptoms, stages, solutions, women's health"
         />
-        {/* <link rel="canonical" href="https://example.com/menopause" /> */}
+        <link
+          rel="canonical"
+          href="https://better-body-react.vercel.app/menopause"
+        />
         <meta
           property="og:title"
           content="Understanding Menopause: Symptoms, Stages, and Solutions"
@@ -38,8 +40,14 @@ function Menopause() {
           property="og:description"
           content="Learn about menopause symptoms, stages, and effective solutions for a smooth transition. Start your journey to a more comfortable menopausal experience today."
         />
-        <meta property="og:image" content="https://i.imgur.com/1ONf3W4.jpg" />
-        {/* <meta property="og:url" content="https://example.com/menopause" /> */}
+        <meta
+          property="og:image"
+          content="https://i.postimg.cc/cHjmjHPx/betterbody.webp"
+        />
+        <meta
+          property="og:url"
+          content="https://better-body-react.vercel.app/menopause"
+        />
         <meta
           name="twitter:title"
           content="Understanding Menopause: Symptoms, Stages, and Solutions"
@@ -48,7 +56,10 @@ function Menopause() {
           name="twitter:description"
           content="Learn about menopause symptoms, stages, and effective solutions for a smooth transition. Start your journey to a more comfortable menopausal experience today."
         />
-        <meta name="twitter:image" content="https://i.imgur.com/1ONf3W4.jpg" />
+        <meta
+          name="twitter:image"
+          content="https://i.postimg.cc/hPVmbWFT/betterbody.webp"
+        />
         <meta name="twitter:card" content="summary_large_image" />
       </Helmet>
       <Header />
@@ -56,11 +67,14 @@ function Menopause() {
         <section className="blog-post">
           <article>
             <img
-              src="https://i.imgur.com/1ONf3W4.jpg"
+              src="https://i.postimg.cc/7h05V7Rw/reproductivesystem.webp"
               alt="Women holding reproductive system"
             ></img>
-            <a href="/" className="tag">
+            <a href="/" className="article-tag">
               Lifestyle
+            </a>
+            <a href="/" className="article-tag">
+              Anti-aging
             </a>
             <h1 className="title">
               Understanding Menopause: Symptoms, Stages, and Solutions for a
@@ -102,7 +116,7 @@ function Menopause() {
               promised, as easy as 1, 2, 3)!
             </p>
             <img
-              src="https://i.imgur.com/fRjvwqE.jpg"
+              src="https://i.postimg.cc/fRZ982ZF/women.webp"
               alt="Women lying on the rock at ease in exercise attire"
             ></img>
             <p>Let us start with understanding the 3 stages of Menopause:</p>
@@ -114,7 +128,7 @@ function Menopause() {
 
             <h1 className="title">The 3 Stages of Menopause</h1>
             <img
-              src="https://i.imgur.com/Nu6b8hj.jpg"
+              src="https://i.postimg.cc/sXtB7KwT/sadreproductivesystem.webp"
               alt="Sad looking reproductive system in graphic"
             ></img>
             <h3 className="sub-title">Perimenopause</h3>
@@ -162,7 +176,7 @@ function Menopause() {
               menstrual period (bleeding).
             </p>
             <img
-              src="https://i.imgur.com/Ot1VNYk.jpg"
+              src="https://i.postimg.cc/FRfdYwgf/womenhealth.webp"
               alt="Pills lining up in women logo with pink background"
             ></img>
             <h3 className="sub-title">What happens?</h3>
@@ -200,7 +214,7 @@ function Menopause() {
             </p>
             <p>Say goodbye to unwanted weight gain due to menopause!</p>
             <img
-              src="https://i.imgur.com/eemum80.jpg"
+              src="https://i.postimg.cc/13HN2G3z/provitalize.webp"
               alt="Key benefits of provitalize"
             ></img>
             <div className="center-container">
@@ -297,15 +311,22 @@ function Menopause() {
               have an easier menopausal transition...
             </p>
 
-            <a
-              className="tag"
-              href="https://betterbody.co/pages/pp-provitalize-m"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Solving Menopause Symptoms Is Easy As 1, 2, 3 with Provitalize.
-            </a>
-
+            <p>
+              <strong>
+                Solving Menopause Symptoms Is Easy As 1, 2, 3 with Provitalize.
+              </strong>
+            </p>
+            <div className="center-container">
+              {" "}
+              <a
+                className="tag"
+                href="https://betterbody.co/pages/pp-provitalize-m"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Try Provitalize
+              </a>
+            </div>
             <h3 className="references-link" onClick={toggleReferences}>
               References
             </h3>

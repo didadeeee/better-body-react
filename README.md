@@ -46,6 +46,7 @@ Competitor Research:
 
 Image Hosting:
 - [Imgur](https://imgur.com/)
+- [Postimages](https://postimg.cc/)
 
 ## Learn More
 

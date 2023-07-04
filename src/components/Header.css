@@ -64,18 +64,6 @@ nav ul li a.active {
     height: auto;
   }
 
-  .hamburger-menu {
-    display: block;
-    cursor: pointer;
-  }
-
-  .line {
-    width: 25px;
-    height: 3px;
-    background-color: #333;
-    margin: 5px 0;
-  }
-
   .nav-container {
     display: none;
     position: absolute;

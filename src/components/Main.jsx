@@ -7,7 +7,7 @@ function Main() {
         <section className="blog-posts">
           <article>
             <img
-              src="https://i.imgur.com/evR193j.jpg"
+              src="https://i.postimg.cc/CLpBKPZ1/womenreading.webp"
               alt="A women reading article using magnifying glass"
             ></img>
             <h2>
@@ -27,7 +27,7 @@ function Main() {
 
           <article>
             <img
-              src="https://i.imgur.com/UOylCML.jpg"
+              src="https://i.postimg.cc/WpkqTL1C/skincare.webp"
               alt="Skincare products placed in a basket"
             ></img>
             <h2>5 Tips For Better Skin This Summer</h2>
@@ -47,7 +47,7 @@ function Main() {
           </article>
           <article>
             <img
-              src="https://i.imgur.com/X6d9pjL.jpg"
+              src="https://i.postimg.cc/8P7K1C6D/food.webp"
               alt="Full of berries"
             ></img>
             <h2>5 Lifestyle Changes To Help You Beat Sugar Cravings</h2>
@@ -67,7 +67,7 @@ function Main() {
           </article>
           <article>
             <img
-              src="https://i.imgur.com/OJBXrBv.jpg"
+              src="https://i.postimg.cc/N0jrcKKk/fitnes.webp"
               alt="2 women drinking after workout"
             ></img>
             <h2>
@@ -90,7 +90,7 @@ function Main() {
           </article>
           <article>
             <img
-              src="https://i.imgur.com/p3rLQlk.jpg"
+              src="https://i.postimg.cc/rpZRFqWX/relationship.webp"
               alt="Cycling couple holding each others hand under sunset"
             ></img>
             <h2>Supporting Your Partner Through Menopause</h2>
@@ -112,7 +112,7 @@ function Main() {
           </article>
           <article>
             <img
-              src="https://i.imgur.com/iIU9g76.jpg"
+              src="https://i.postimg.cc/RV13J7fT/yoga.webp"
               alt="Women practice mountain pose on top of mountain"
             ></img>
             <h2>Stretch & Pose Your Joint Pains Away!</h2>
