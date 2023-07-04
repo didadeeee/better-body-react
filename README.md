@@ -5,14 +5,15 @@
 I created a blog post for [Better Body Co.](https://betterbody.co/), owned by [Maneuver Marketing](https://maneuvermarketing.com/) within 48 hours.
 <br>
 
-Check out the Website [here.](https://better-body-react.vercel.app/)
-
 Inspired by a minimalist blogpost design on [Tailwind](https://www.tailwindawesome.com/resources/stablo/demo), I have decided to create the app with the following tech stack:
 
 1. React.js
 2. HTML5 (JSX)
 3. CSS
 4. Vercel Deployment
+<br>
+
+### Check out my work here: [Better Body Co. Blog](https://better-body-react.vercel.app/)
 <br>
 
 The key UI/UX features, inspired by many online resources, are as follows:
@@ -54,4 +55,6 @@ Competitor Research:
   - The website stands out for its high credibility, featuring interactive content that engages users effectively. Additionally, the website benefits from numerous backlinks, which contribute to its authority and visibility.
 - [The Scarlet Company](https://thescarletcompany.com/blogs/articles/understanding-your-menstrual-health-taking-extra-care)
   - The design incorporates a distinguished color coding scheme to enhance visual appeal and organization. However, there is a lack of interactive elements, which could limit user engagement and interactivity.
+<br>
 
+### Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/didadeeee/) if you have any advice at all! More than happy to exchange ideas! :)
