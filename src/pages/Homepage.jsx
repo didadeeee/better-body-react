@@ -11,7 +11,7 @@ function Homepage() {
         <title>The Better Body Company - Solving Health Issues Naturally</title>
         <meta
           name="description"
-          content="The Better Body Company is a collective mind of problem solvers, professional product formulators, health experts, and naturopaths. We strive to find supplements that actually work and tackle health issues from the root cause. Discover our mission, our success stories, and how we can help you improve gut health, achieve diet goals, lose weight, and regain mental clarity and focus."
+          content="The Better Body Company: Your solution to health issues. Discover supplements that work, improve gut health, achieve diet goals, lose weight, and regain mental focus."
         />
         <meta
           name="keywords"
@@ -25,7 +25,7 @@ function Homepage() {
         />
         <meta
           property="og:description"
-          content="The Better Body Company is a collective mind of problem solvers, professional product formulators, health experts, and naturopaths. We strive to find supplements that actually work and tackle health issues from the root cause. Discover our mission, our success stories, and how we can help you improve gut health, achieve diet goals, lose weight, and regain mental clarity and focus."
+          content="The Better Body Company is dedicated to finding effective supplements and addressing health issues at their root. Join us to improve gut health, achieve diet goals, lose weight, and enhance mental clarity."
         />
         <meta
           property="og:image"
@@ -41,7 +41,7 @@ function Homepage() {
         />
         <meta
           name="twitter:description"
-          content="The Better Body Company is a collective mind of problem solvers, professional product formulators, health experts, and naturopaths. We strive to find supplements that actually work and tackle health issues from the root cause. Discover our mission, our success stories, and how we can help you improve gut health, achieve diet goals, lose weight, and regain mental clarity and focus."
+          content="Discover The Better Body Company: We tackle health issues with effective supplements. Improve gut health, achieve diet goals, lose weight, and boost mental clarity. Join us on the journey to better health."
         />
         <meta
           name="twitter:image"

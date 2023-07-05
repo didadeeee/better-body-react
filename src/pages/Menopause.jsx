@@ -22,11 +22,11 @@ function Menopause() {
         <title>Understanding Menopause: Symptoms, Stages, and Solutions</title>
         <meta
           name="description"
-          content="Understanding Menopause: Learn about the symptoms, stages, and solutions for a smooth transition. Explore the three stages of menopause and discover effective ways to manage common symptoms. Simplify the process and find relief with Better Body Co's Provitalize. Start your journey to a more comfortable menopausal experience today."
+          content="Understanding Menopause: Symptoms, stages, and solutions for a smooth transition. Discover effective ways to manage symptoms with Better Body Co's Provitalize."
         />
         <meta
           name="keywords"
-          content="menopause, symptoms, stages, solutions, women's health"
+          content="menopause, symptoms, solutions, women's health"
         />
         <link
           rel="canonical"
@@ -38,7 +38,7 @@ function Menopause() {
         />
         <meta
           property="og:description"
-          content="Learn about menopause symptoms, stages, and effective solutions for a smooth transition. Start your journey to a more comfortable menopausal experience today."
+          content="Understanding Menopause: Symptoms, stages, and solutions for a smooth transition. Manage symptoms effectively with Better Body Co's Provitalize."
         />
         <meta
           property="og:image"
@@ -54,7 +54,7 @@ function Menopause() {
         />
         <meta
           name="twitter:description"
-          content="Learn about menopause symptoms, stages, and effective solutions for a smooth transition. Start your journey to a more comfortable menopausal experience today."
+          content="Understanding Menopause: Symptoms, stages, and solutions for a smooth transition. Discover effective ways to manage symptoms with Better Body Co's Provitalize. Start your journey to a more comfortable menopausal experience today."
         />
         <meta
           name="twitter:image"

@@ -36,7 +36,7 @@ After consulting with experienced SEO analysts and online resources, we have ide
 10. **Social Sharing Buttons**: Facilitate easy content sharing with social sharing buttons.
 
 ### **Resources**:
-Technical inspection: [PageSpeed Insights](https://pagespeed.web.dev/) | Refer to the full report of my Blogpost Analysis [here](https://pagespeed.web.dev/analysis/https-better-body-react-vercel-app/p05tnpg2bf?form_factor=mobile).
+Technical inspection: [PageSpeed Insights](https://pagespeed.web.dev/) | Refer to the full report of my Blogpost Analysis [here](https://pagespeed.web.dev/analysis/https-better-body-react-vercel-app/pmws7kyu9m?form_factor=mobile).
 
 Understanding PageSpeed Insights: [SMA Marketing](https://www.youtube.com/watch?v=c5zSF1JQ1gs)
 
