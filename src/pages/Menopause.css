@@ -52,6 +52,7 @@ p {
 
 .blog-post p {
   margin-bottom: 10px;
+  padding: 3px 0px;
 }
 
 .blog-post h1 {
