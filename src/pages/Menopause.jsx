@@ -1,4 +1,4 @@
-import { React, useState } from "react";
+import React, { useState } from "react";
 import { Helmet } from "react-helmet";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -225,7 +225,7 @@ function Menopause() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Try Provitalize
+                Try Provitalize Today!
               </a>
             </div>
             <h1 className="title">Postmenopause</h1>
@@ -324,7 +324,7 @@ function Menopause() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Try Provitalize
+                Try Provitalize Today!
               </a>
             </div>
             <h3 className="references-link" onClick={toggleReferences}>

@@ -1,5 +1,5 @@
 img {
-  width: 800px;
+  max-width: 100%;
   height: auto;
 }
 
@@ -8,7 +8,7 @@ p.content {
 }
 
 p {
-  margin-bottom: 20px !important;
+  margin-bottom: 20px;
 }
 
 .title {
@@ -27,16 +27,14 @@ p {
   text-decoration: none;
   display: inline-block;
   font-size: 18px;
-  margin: 5px 0;
+  margin: 6px;
   padding: 6px 24px;
-  border: none;
   border-radius: 4px;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
   transition: background-color 0.3s ease;
-  margin: 6px;
 }
 
-.tag,
+.tag:hover,
 .article-tag:hover {
   background-color: #fe9200;
   color: white;
@@ -68,6 +66,7 @@ p {
   margin: 20px 0;
   border: 1px solid #ddd;
   border-radius: 4px;
+  max-width: 100%;
 }
 
 .references-link,
@@ -94,7 +93,7 @@ p {
 }
 
 .collapse-section p {
-  padding: 0px;
+  padding: 0;
 }
 
 .collapse-section a {
